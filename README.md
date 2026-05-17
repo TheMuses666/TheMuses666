@@ -31,7 +31,7 @@
   ⚙️ <i>Security Stack</i>
 </h2>
 
-<hr style="border: 1px solid #1f2937;">
+<hr style="border: 0.5px solid #1f2937;">
 <p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
@@ -67,8 +67,6 @@
 <h2 align="center">
   📈 <i>Statistics</i>
 </h2>
-
-<hr style="border: 1px solid #1f2937;">
 
 <p align="center">
   <img 

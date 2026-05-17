@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  ⚙️ <i>Technologies</i>
+  ⚙️ <i>Software Technologies</i>
 </h2>
 
 <hr/>
@@ -26,7 +26,29 @@
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+<h2 align="center">
+  ⚙️ <i>Security Technologies</i>
+</h2>
 
+<hr/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PFSENSE-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SNORT-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/DVWA-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SCAPY-000000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 <br/>
 
 <h2 align="center">

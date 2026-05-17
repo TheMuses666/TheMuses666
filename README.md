@@ -67,20 +67,6 @@
 
 <p align="center">
   <img 
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheMuses666&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-  />
-
-<img 
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheMuses666&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"
-  />
-
-</p>
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=TheMuses666&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
     width="96%"
   />

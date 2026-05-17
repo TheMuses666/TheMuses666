@@ -14,8 +14,6 @@
   ⚙️ <i>Software Technologies</i>
 </h2>
 
-<hr/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -31,7 +29,6 @@
   ⚙️ <i>Security Stack</i>
 </h2>
 
-<hr style="border: 0.5px solid #1f2937;">
 <p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 

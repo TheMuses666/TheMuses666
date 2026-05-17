@@ -22,16 +22,16 @@
   <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <h2 align="center">
-  ⚙️ <i>Security Technologies</i>
+  ⚙️ <i>Security Stack</i>
 </h2>
 
-<hr/>
-
+<hr style="border: 1px solid #1f2937;">
 <p align="center">
   <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
 
   <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <br>
 
   <img src="https://img.shields.io/badge/PFSENSE-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
 
@@ -50,12 +51,24 @@
   <img src="https://img.shields.io/badge/SCAPY-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <br/>
+<h2 align="center">
+  🔬 <i>Research Areas</i>
+</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-000000?style=for-the-badge&logo=serverfault&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/BLOCKCHAIN_SECURITY-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/BYZANTINE_FAULT_TOLERANCE-000000?style=for-the-badge&logo=protocolsdotio&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/ML_FOR_CYBERSECURITY-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 <h2 align="center">
   📈 <i>Statistics</i>
 </h2>
 
-<hr/>
+<hr style="border: 1px solid #1f2937;">
 
 <p align="center">
   <img 

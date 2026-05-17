@@ -66,14 +66,14 @@
 </h2>
 
 <p align="center">
- <img 
+  <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=TheMuses666&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheMuses666&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   />
 
 <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuses666&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheMuses666&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"
   />
 
 </p>

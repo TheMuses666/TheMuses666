@@ -66,15 +66,17 @@
 </h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TheMuses666&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    width="48%"
+ <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=TheMuses666&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuses666&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
-    width="36%"
+
+<img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuses666&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"
   />
+
+</p>
 </p>
 
 <p align="center">
